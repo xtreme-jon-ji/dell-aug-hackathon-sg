@@ -8,7 +8,7 @@
   * [Sample Docker Image](#sample-docker-image)
   * [Imperative](#imperative)
   * [Declarative](#declarative)
-  * [POD and SERVICE validation](#pod---service-validation)
+  * [POD and SERVICE validation](#pod-and-service-validation)
 - [Links](#links)
 
 
