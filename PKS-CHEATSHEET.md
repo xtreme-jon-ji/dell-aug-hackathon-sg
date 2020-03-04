@@ -1,4 +1,18 @@
-## Pre-Requisites
+# PKS Cheatsheet
+
+### Table of Contents
+  * [Install the PKS CLI](#install-the-pks-cli)
+  * [Install the kubectl CLI](#install-the-kubectl-cli)
+- [Accessing the Platform](#accessing-the-platform)
+- [Deploying the Sample Application](#deploying-the-sample-application)
+  * [Sample Docker Image](#sample-docker-image)
+  * [Imperative](#imperative)
+  * [Declarative](#declarative)
+  * [POD and SERVICE validation](#pod-and-service-validation)
+- [Links](#links)
+
+
+  
 ### Install the PKS CLI
 Download and install the Pivotal Container Service Command Line Interface (PKS CLI):
 
