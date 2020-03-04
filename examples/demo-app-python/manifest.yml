@@ -1,0 +1,8 @@
+---
+applications:
+  - name: demo-app-python
+    instances: 1
+    memory: 128MB
+    buildpack: python_buildpack
+    random-route: true
+    command: python main.py

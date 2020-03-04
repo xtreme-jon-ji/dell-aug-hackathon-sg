@@ -1,0 +1,7 @@
+---
+applications:
+  - name: demo-app-go
+    instances: 1
+    memory: 128MB
+    buildpack: go_buildpack
+    random-route: true

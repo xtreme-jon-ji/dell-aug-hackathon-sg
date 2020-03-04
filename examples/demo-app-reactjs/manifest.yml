@@ -1,0 +1,8 @@
+---
+applications:
+  - name: demo-app-react
+    instances: 1
+    memory: 128MB
+    buildpack: staticfile_buildpack
+    random-route: true
+    path: ./build
