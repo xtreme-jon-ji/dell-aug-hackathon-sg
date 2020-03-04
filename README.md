@@ -1,4 +1,4 @@
-# dell-aug-hackathon-sg
+# Dell Augmented Hackathon 2020
 Pivotal Platform resources for Dell Augmented Hackathon
 
 [PAS Cheatsheet](PAS-CHEATSHEET.md)
