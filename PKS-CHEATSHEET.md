@@ -1,24 +1,4 @@
-# PAS Cheatsheet
-
-## Table of Contents
-
-[Install the PKS CLI](#install-the-pks-cli)
-
-[Deploying the Sample Application](#deploying-the-sample-application)
-- [Download examples](#download-examples)
-- [Accessing the Platform](#accessing-the-platform)
-- [Building and pushing applications to Cloud Foundry](#building-and-pushing-applications-to-cloud-foundry)
-  - [ReactJS app](#reactjs-app)
-  - [Python app](#python-app)
-  - [Go app](#go-app)
-  - [Spring app](#spring-app)
-- [Once apps are running](#once-apps-are-running)
-  - [View App status](#view-app-status)
-  - [View Logs](#view-logs)
-- [Connect a Database or other service](#connect-a-database-or-other-service)
-  - [Connecting a Database](#connecting-a-database)
-  - [Connect an external service](#connect-an-external-service)
-  
+## Pre-Requisites
 ### Install the PKS CLI
 Download and install the Pivotal Container Service Command Line Interface (PKS CLI):
 
@@ -172,7 +152,7 @@ $ kubectl apply -f <YAML file>
 $ kubectl apply -f docker101-pod.yaml
 ```
 
-### POD & SERVICE validation
+### POD and SERVICE validation
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check if the docker101 POD is in running state
 ```
